@@ -1,0 +1,1 @@
+class test { public void hello { if (3 > 4) {}} public static void main(String[] args) { system.out.println("This is the {best}"); }}
